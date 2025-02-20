@@ -40,16 +40,6 @@ python shadowhunter.py --shodan -ip 192.168.1.1
 python shadowhunter.py --crawl -d target.com
 ```
 
-## 🛠️ Tasklist (To-Do)  
-- [ ] Subdomain enumeration  
-- [ ] Live subdomain checking  
-- [ ] IP extraction for subdomains  
-- [ ] Shodan API integration  
-- [ ] Web crawling for parameters  
-- [ ] Live parameter filtering  
-- [ ] Multi-threading for efficiency  
-- [ ] Output results in various formats (JSON, CSV, etc.)  
-
 ## 🏴‍☠️ Contribution  
 Got ideas? Want to improve ShadowHunter? Contributions are welcome!  
 
